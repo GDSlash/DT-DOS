@@ -1,7 +1,8 @@
 # DT-DOS
+## v1.0.0
 >The Devel Technologies Disk Operating System is an original, fully working disk operating system that can run anywhere (even in an official emulation app)!
 ---
-## Basic Commands
+### Basic Commands
 DT-DOS uses a custom language similar to bash called DOSScript (pronounced: daw-ss-script). This section of the README file tells you a few basic commands, for a full documentation of every command, type the `help` command into the command line. A few of the most basic commands are listed below:
 
 | Command | Purpose |
@@ -10,3 +11,5 @@ DT-DOS uses a custom language similar to bash called DOSScript (pronounced: daw-
 | `pacman` | Lets you interact with the package manager |
 | `mkdir` | Makes a new folder in the current directory |
 ---
+### Installation
+At this point, installing DT-DOS is as simple as installing is from the software tab on the [Devel website](https://develtech.w3spaces.com/).
