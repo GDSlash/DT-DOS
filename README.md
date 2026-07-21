@@ -6,6 +6,7 @@ DT-DOS uses a custom language similar to bash called DOSScript (pronounced: daw-
 
 | Command | Purpose |
 |---------|---------|
-| clear | Clears the screen and emptys the command line |
-| pacman | Lets you interact with the package manager |
-| mkdir | Makes a new folder in the current directory |
+| `clear` | Clears the screen and emptys the command line |
+| `pacman` | Lets you interact with the package manager |
+| `mkdir` | Makes a new folder in the current directory |
+---
